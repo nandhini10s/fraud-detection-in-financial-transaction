@@ -1,6 +1,6 @@
 # fraud-detection-in-financial-transaction
 
-Myself Nandhini and my friend Niteesh Kumar have done a ML project on fraud detection in financial transactions. Our prpject is specific to the field of actuarial science. Our main objective is to detect vehicle insurance fraud. 
+Myself Nandhini and my friend Niteesh Kumar have done a ML project on fraud detection in financial transactions. Our project is specific to the field of actuarial science. Our main objective is to detect vehicle insurance fraud. 
 
 STEPS:
 
