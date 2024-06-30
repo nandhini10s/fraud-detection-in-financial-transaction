@@ -3,6 +3,7 @@
 Myself Nandhini and my friend Niteesh Kumar have done a ML project on fraud detection in financial transactions. Our prpject is specific to the field of actuarial science. Our main objective is to detect vehicle insurance fraud. 
 
 STEPS:
+
 Cleaned the data by treating the empty values.
 
 Created a new feature “Elapsed Time” using the datetime data.
